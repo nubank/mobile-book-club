@@ -8,4 +8,4 @@ This repo contains our notes and the code written during this meetings.
 
 ### Data Structures and Algorithms in Swift
 - [Our Notes](https://github.com/nubank/mobile-book-club/tree/master/data-structures-and-algorithms-in-swift)
-- [Where buy the book](https://store.raywenderlich.com/products/data-structures-and-algorithms-in-swift)
+- [Where to buy the book](https://store.raywenderlich.com/products/data-structures-and-algorithms-in-swift)
