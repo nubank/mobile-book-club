@@ -2,7 +2,7 @@
 
 Mobile Book Club is a initiative where Nubank's Mobile Chapter gathers together once a week to discuss one (or more) chapter(s) of a book.
 
-This repo contains our notes and the code written during this meetings.
+This repo contains our notes and the code written during these meetings.
 
 ## Current book
 
