@@ -16,6 +16,3 @@
 * ExpressibleByArrayLiteral
 	* Requires an init that receives as argument an Array
 	* In Swift standard library, there are protocols for the other primitive type (e.g.: `ExpressibleByIntegerLiteral`)
-
-### Testing proselint
-* This is a test!!!
