@@ -1,4 +1,4 @@
-# Mobile Book Club
+# Mobile Book Club [![Build Status](https://travis-ci.org/nubank/mobile-book-club.svg?branch=master)](https://travis-ci.org/nubank/mobile-book-club)
 
 Mobile Book Club is a initiative where Nubank's Mobile Chapter gathers together once a week to discuss one (or more) chapter(s) of a book.
 
