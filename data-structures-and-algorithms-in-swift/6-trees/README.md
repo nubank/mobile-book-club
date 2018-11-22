@@ -22,7 +22,7 @@ Also, each node has references to other nodes, normally called `children nodes`.
 
 #### Parent, children
 
-These commonly-seen-terms are used to explain the relation between adjacent nodes.
+These commonly seen terms are used to explain the relation between adjacent nodes.
 If a node has a direct reference to other node, we call the referenced one its child.
 Analogously, the node which has a reference to another is called a parent.
 
@@ -90,9 +90,7 @@ Level-order traversal visits one **level** at a time:
         8
 ```
 
-In a depth-first traversal, the nodes would be visited in that order, counting from 1 to 7.
-
 ### Search
 
-Search algorithm is straightforward now we know the behavior of the traversal ones.
+Search algorithm is straightforward now we know how the traversal ones work.
 All we have to do is check if the element we are looking for is the current one while traversing.
